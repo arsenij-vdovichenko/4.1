@@ -1,0 +1,17 @@
+.grandfather{
+    padding: 30px;
+    background-color: blue;
+    font-size: 50px;
+}
+
+.dad{
+    padding: 30px;
+    background-color: purple;
+    font-size: 50px;
+}
+
+.son{
+    padding: 30px;
+    background-color: green;
+    font-size: 50px;
+}
